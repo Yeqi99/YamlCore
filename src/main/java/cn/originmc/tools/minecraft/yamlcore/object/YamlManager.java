@@ -1,4 +1,4 @@
-package cn.originmc.tools.yamlcore.object;
+package cn.originmc.tools.minecraft.yamlcore.object;
 
 
 import org.bukkit.configuration.file.YamlConfiguration;
