@@ -1,4 +1,0 @@
-name: YamlCore
-version: '${project.version}'
-main: cn.originmc.tools.yamlcore.YamlCore
-api-version: 1.20
